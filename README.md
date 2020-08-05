@@ -7,7 +7,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+PORT=3000 yarn serve
 ```
 
 ### Compiles and minifies for production
